@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there! I'm Jaimin (JK) 👋, a passionate Computer Engineering student with a keen interest in software development, and data-driven decision-making.
+👋 Hey, I’m Jaimin (JK)  
+
+🌟 Aspiring SDE | Problem Solver | Tech Explorer  
+🔧 Skilled in: C++, Python, React.js, Flask, MongoDB  
+📚 Currently mastering DSA & building real-world projects  
+
+🚀 Contributor @ GirlScript Summer of Code 2025 (GSSoC '25)  
 
 
 ## 🌐 Socials:
