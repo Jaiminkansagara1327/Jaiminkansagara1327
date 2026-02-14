@@ -1,19 +1,21 @@
 # 💫 About Me:
-👋 Hey, I’m **Jaimin (JK)**  
+👋 Hey, I'm **Jaimin (JK)**  
 
-🌟 **Aspiring Software Development Engineer (SDE)** | Problem Solver | Tech Explorer  
-🔧 **Skilled in:** C++, Python, React.js, Flask, Django, MongoDB, SQL  
-📚 Currently mastering **Data Structures & Algorithms (DSA)** and building **real-world projects**  
+🌟 **Computer Engineering Student** | Backend Developer | Tech Enthusiast  
+🔧 **Skilled in:** Python, C++, JavaScript, Django, Flask, PostgreSQL  
+📚 Currently building **REST APIs** and exploring **full-stack development**  
 
-🚀 Contributor @ **GirlScript Summer of Code 2025 (GSSOC'25)**  
+🚀 Contributor @ **GirlScript Summer of Code 2025 (GSSoC'25)**  
 🎉 Contributor @ **Hacktoberfest 2025**  
 
 ---
 
 ## 🎯 What I Do
-- 💻 Develop full-stack applications with **React.js + Flask/Django + MongoDB/SQL**  
-- 🧩 Solve algorithmic challenges to sharpen **problem-solving skills**  
-- 🌱 Explore open-source projects and contribute to the **developer community**  
+- 💻 Develop backend services with **Python, Django, and Django REST Framework**  
+- 🔌 Design and deploy **RESTful APIs** with secure authentication  
+- 🗄️ Build efficient **database models** using PostgreSQL and Django ORM  
+- 🌐 Create **full-stack applications** integrating backend with React.js frontend  
+- 🧩 Solve **real-world problems** through freelance and open-source projects  
 
 ---
 
@@ -28,4 +30,4 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Status:** Open to internships & freelance projects in backend development
